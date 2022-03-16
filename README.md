@@ -3,15 +3,24 @@
 I'm a self-taught Front End Developer from Japan :japan:, currently living in Toronto, Canada :maple_leaf:.
 
 :mailbox: Please reach me out!  
-[![Linkedin Badge](https://img.shields.io/badge/-yumietsuzuki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yumie-tsuzuki/) [![Mail Badge](https://img.shields.io/badge/-yumietsuzuki-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yumie.tsuzuki@gmail.com)  
-:paperclip: [Resume](https://drive.google.com/file/d/13Siu8GOmzuUM8JS7pBD-Vtqgbp1p867u/view)
 
+[![Linkedin Badge](https://img.shields.io/badge/-yumietsuzuki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yumie-tsuzuki/) [![Mail Badge](https://img.shields.io/badge/-yumietsuzuki-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yumie.tsuzuki@gmail.com)  
+
+
+
+#### Skills & Tools
+
+![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat-square&labelColor=black&logo=react&logoColor=61DBFB) ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&labelColor=black&logo=redux&logoColor=764ABC) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&labelColor=black&logo=javascript&logoColor=F7DF1E) ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&labelColor=black&logo=html5&logoColor=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&labelColor=black&logo=css3&logoColor=1572B6) ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&labelColor=black&logo=sass&logoColor=CC6699) ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&labelColor=black&logo=node.js&logoColor=339933) ![Express Badge](https://img.shields.io/badge/-Express-000000?style=flat-square&labelColor=black&logo=express&logoColor=fff) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&labelColor=black&logo=mongodb&logoColor=47A248) ![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&labelColor=black&logo=gatsby&logoColor=663399) ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&labelColor=black&logo=graphql&logoColor=E10098) ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&labelColor=black&logo=jest&logoColor=C21325) ![React Testing Library Badge](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&labelColor=black&logo=testinglibrary&logoColor=E33332) ![Netlify Badge](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&labelColor=black&logo=netlify&logoColor=00C7B7) ![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=flat-square&labelColor=black&logo=heroku&logoColor=430098) ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&labelColor=black&logo=firebase&logoColor=FFCA28)  
+  
+  
+  
 - :computer: I'm currently looking for a new opportunity!
 - :sushi: I love sushi.
 - :soccer: I'm a Real Madrid fan.
 - :airplane: I like to travel and want to explore the world more.
-- :camera: I occasionally take photos.
+- :camera: I occasionally take photos.  
+  
+:paperclip: [Resume](https://drive.google.com/file/d/13Siu8GOmzuUM8JS7pBD-Vtqgbp1p867u/view)  
+  
+  
 
-#### Skills & Tools
-
-![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat-square&labelColor=black&logo=react&logoColor=61DBFB) ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&labelColor=black&logo=redux&logoColor=764ABC) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&labelColor=black&logo=javascript&logoColor=F7DF1E) ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&labelColor=black&logo=html5&logoColor=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&labelColor=black&logo=css3&logoColor=1572B6) ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&labelColor=black&logo=sass&logoColor=CC6699) ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&labelColor=black&logo=node.js&logoColor=339933) ![Express Badge](https://img.shields.io/badge/-Express-000000?style=flat-square&labelColor=black&logo=express&logoColor=fff) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&labelColor=black&logo=mongodb&logoColor=47A248) ![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&labelColor=black&logo=gatsby&logoColor=663399) ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&labelColor=black&logo=graphql&logoColor=E10098) ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&labelColor=black&logo=jest&logoColor=C21325) ![React Testing Library Badge](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&labelColor=black&logo=testinglibrary&logoColor=E33332) ![Netlify Badge](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&labelColor=black&logo=netlify&logoColor=00C7B7) ![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=flat-square&labelColor=black&logo=heroku&logoColor=430098) ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&labelColor=black&logo=firebase&logoColor=FFCA28)
