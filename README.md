@@ -4,6 +4,8 @@ I'm a self-taught Front End Developer from Japan :japan:, currently living in To
 
 :mailbox: Please reach me out!  
 
+:paperclip: [Resume](https://drive.google.com/file/d/13Siu8GOmzuUM8JS7pBD-Vtqgbp1p867u/view)  
+
 [![Linkedin Badge](https://img.shields.io/badge/-yumietsuzuki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yumie-tsuzuki/) [![Mail Badge](https://img.shields.io/badge/-yumietsuzuki-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yumie.tsuzuki@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-yumietsuzuki-f6d2c6?style=flat&labelColor=081217)](https://yumietsuzuki.netlify.app/)  
 
 
@@ -20,7 +22,7 @@ I'm a self-taught Front End Developer from Japan :japan:, currently living in To
 - :airplane: I like to travel and want to explore the world more.
 - :camera: I occasionally take photos.  
   
-:paperclip: [Resume](https://drive.google.com/file/d/13Siu8GOmzuUM8JS7pBD-Vtqgbp1p867u/view)  
+
   
   
 
