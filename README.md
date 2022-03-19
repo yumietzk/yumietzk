@@ -8,7 +8,15 @@ I'm a self-taught Front End Developer from Japan :japan:, currently living in To
 
 [![Linkedin Badge](https://img.shields.io/badge/-yumietsuzuki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yumie-tsuzuki/) [![Mail Badge](https://img.shields.io/badge/-yumietsuzuki-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yumie.tsuzuki@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-yumietsuzuki-f6d2c6?style=flat&labelColor=081217)](https://yumietsuzuki.netlify.app/)  
 
-
+- :computer: I'm looking for a new opportunity!
+- :boom: I always make an effort to improve my skills and expand my knowledge.
+- :star: I'm currently trying to dive deep into Node.js, Express and MongoDB, and learn Next.js.  
+  
+Other than coding:
+- :sushi: I love sushi.
+- :soccer: I'm a Real Madrid fan, and used to be a midfielder. 
+- :airplane: I like to travel and want to explore as many countries as I can in my life.
+- :camera: I occasionally take photos. 
 
 #### Skills & Tools
 
@@ -16,11 +24,7 @@ I'm a self-taught Front End Developer from Japan :japan:, currently living in To
   
   
   
-- :computer: I'm currently looking for a new opportunity!
-- :sushi: I love sushi.
-- :soccer: I'm a Real Madrid fan.
-- :airplane: I like to travel and want to explore the world more.
-- :camera: I occasionally take photos.  
+ 
   
 
   
