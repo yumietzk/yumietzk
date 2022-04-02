@@ -4,7 +4,7 @@ I'm a self-taught Front End Developer from Japan :japan:, currently living in To
 
 :mailbox: Please reach me out!  
 
-:paperclip: [Resume](https://drive.google.com/file/d/19K8-h58lRQLdpcVyRAufFIRzLcmm9Lq4/view)  
+:paperclip: [Resume](https://drive.google.com/file/d/1GFuObrzpI3Oh7RCdATUXfIZ-bYFsIfnE/view)  
 
 [![Linkedin Badge](https://img.shields.io/badge/-yumietsuzuki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yumie-tsuzuki/) [![Mail Badge](https://img.shields.io/badge/-yumietsuzuki-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yumie.tsuzuki@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-yumietsuzuki-f6d2c6?style=flat&labelColor=081217)](https://yumietsuzuki.netlify.app/)  
 
