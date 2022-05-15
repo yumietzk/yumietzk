@@ -14,7 +14,7 @@ I'm a self-taught Front End Developer from Japan :japan:, currently living in To
   
 Other than coding:
 - :sushi: I love sushi.
-- :soccer: I'm a Real Madrid fan, and used to be a midfielder. 
+- :soccer: I'm a Real Madrid fan, and used to play as a midfielder. 
 - :airplane: I like to travel and want to explore as many countries as I can in my life.
 - :camera: I occasionally take photos. 
 
