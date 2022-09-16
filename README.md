@@ -1,7 +1,7 @@
 ## Hi, I'm Yumie <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="25" alt="hi">
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> -->
 
-I'm a self-taught Front End Developer from Japan :japan:, currently living in Toronto, Canada :maple_leaf:.
+I'm a self-taught Front End Developer from Japan :japan:, living in Toronto, Canada :maple_leaf:.
 
 :mailbox: Please reach me out!  
 
@@ -9,7 +9,6 @@ I'm a self-taught Front End Developer from Japan :japan:, currently living in To
 
 [![Linkedin Badge](https://img.shields.io/badge/-yumietsuzuki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yumie-tsuzuki/) [![Mail Badge](https://img.shields.io/badge/-yumietsuzuki-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yumie.tsuzuki@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-yumietsuzuki-f6d2c6?style=flat&labelColor=081217)](https://yumietsuzuki.netlify.app/)  
 
-- :computer: I'm looking for a new opportunity!
 - :boom: I always make an effort to improve my skills and expand my knowledge.
 - :star: I'm currently trying to dive deep into Node.js, Express and MongoDB, and learn Next.js.  
   
