@@ -1,7 +1,7 @@
 ## Hi, I'm Yumie <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="25" alt="hi">
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> -->
 
-I'm a self-taught Front End Developer from Japan :japan:, living in Toronto, Canada :maple_leaf:.
+I'm a self taught Software Developer from Japan :japan:, living in Toronto, Canada :maple_leaf:.
 
 :mailbox: Please reach me out!  
 
