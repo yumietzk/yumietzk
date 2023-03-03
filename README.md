@@ -7,7 +7,8 @@ I'm a self taught Software Developer from Japan :japan:, living in Toronto, Cana
 
 <!-- :paperclip: [Resume](https://drive.google.com/file/d/1GFuObrzpI3Oh7RCdATUXfIZ-bYFsIfnE/view)   -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-yumietsuzuki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yumie-tsuzuki/) [![Mail Badge](https://img.shields.io/badge/-yumietsuzuki-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yumie.tsuzuki@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-yumietsuzuki-f6d2c6?style=flat&labelColor=081217)](https://yumietsuzuki.netlify.app/)  
+[![Linkedin Badge](https://img.shields.io/badge/-yumietsuzuki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yumie-tsuzuki/) [![Mail Badge](https://img.shields.io/badge/-yumietsuzuki-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yumie.tsuzuki@gmail.com) 
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-yumietsuzuki-f6d2c6?style=flat&labelColor=081217)](https://yumietsuzuki.netlify.app/)   -->
 
 - :boom: I always make an effort to improve my skills and expand my knowledge.
 - :star: I'm currently trying to dive deep into Node.js, Express and MongoDB, and learn Next.js.  
