@@ -4,7 +4,9 @@
 I'm a self-taught Software Engineer from Japan :japan:, living in Toronto, Canada :maple_leaf:.  
 I'm currently looking for a new opportunity!
 
-:mailbox: Please reach out!  
+My portfolio website: https://yumietsuzuki.vercel.app/
+
+:mailbox: Please reach out to me!  
 
 <!-- :paperclip: [Resume](https://drive.google.com/file/d/1GFuObrzpI3Oh7RCdATUXfIZ-bYFsIfnE/view)   -->
 
