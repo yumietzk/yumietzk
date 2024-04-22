@@ -2,11 +2,9 @@
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> -->
 
 I'm a self-taught Software Engineer from Japan :japan:, living in Toronto, Canada :maple_leaf:.  
-I'm currently looking for a new opportunity!
-
 My portfolio website: https://yumietsuzuki.vercel.app/
 
-:mailbox: Please reach out to me!  
+:mailbox: Feel free to reach out to me!  
 
 <!-- :paperclip: [Resume](https://drive.google.com/file/d/1GFuObrzpI3Oh7RCdATUXfIZ-bYFsIfnE/view)   -->
 
@@ -19,7 +17,7 @@ My portfolio website: https://yumietsuzuki.vercel.app/
 
 #### Recent project
 
-I'm currently working on [**Remotely**](https://github.com/yumietzk/remotely) 🌱
+My latest project is [**Remotely**](https://github.com/yumietzk/remotely) 🌱
 
 
   
